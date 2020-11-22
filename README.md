@@ -16,5 +16,5 @@ __Sample Inputs:__<br />
 # Contributors
 
 * [Shira Alter](https://github.com/shiraalter/To-The-Max-Submatrix)
-* [Michal Berger](https://github.com/bergerm613/To-The-Max-Submatrix)
+* [Michelle Berger](https://github.com/bergerm613/To-The-Max-Submatrix)
 * [Mindy Gottlieb](https://github.com/Mindy712/To-The-Max-Submatrix)
