@@ -8,12 +8,12 @@ This application finds the maximum sum of the integers
  and the integers of the array, separated by whitespace.<br />
  <br />
  
-__Sample input:__<br />
+__Sample Inputs:__<br />
 * 4<br />
 0 –2 –7 0 9 2 –6 2 -4 1 –4 1 –1 8 0 -2
 * [maxsum.in.txt](maxsum.in.txt)
 
-#Contributors
+# Contributors
 
 * [Shira Alter](https://github.com/shiraalter/To-The-Max-Submatrix)
 * [Michal Berger](https://github.com/bergerm613/To-The-Max-Submatrix)
