@@ -7,6 +7,7 @@ public class Matrix {
         this.matrix = matrix;
     }
 
+    //algorithm inspired by https://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_07_-_Submatrix_with_largest_sum.jsp
     public int getMaxSum() {
         if (matrix.length == 0) return 0;
 
@@ -32,6 +33,7 @@ public class Matrix {
         return maxSum;
     }
 
+    //algorithm inspired by https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
     public int kadane(int[] tempArray) {
         int maxSoFar = tempArray[0];
         int currMax = tempArray[0];
